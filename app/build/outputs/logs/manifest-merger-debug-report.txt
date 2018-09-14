@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13badafaad2c774d7194a20b9e68e378\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\43804d9cb3154c80958f91ca0fc83f82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2824ff30859a16c32c04351315c85ecb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7a3cbe3eb1fee71ab90241cb982c5275\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2212b4bc5002b5f8df13dab87b3cf847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\135b866aed51fd55262bf6c481d3f74a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0f6c8aa6ebf847265e3763ac0bf53ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b418168f196d2102f6ee286f4fc1f9de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7e927766f56aef8c2eadbfb39d8cefe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f471f6b779def2633c2cd1ec5e0e6a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4bd8b9114f1f60fb0de0ed61332a826d\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13badafaad2c774d7194a20b9e68e378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\13badafaad2c774d7194a20b9e68e378\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\43804d9cb3154c80958f91ca0fc83f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\43804d9cb3154c80958f91ca0fc83f82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2824ff30859a16c32c04351315c85ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2824ff30859a16c32c04351315c85ecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7a3cbe3eb1fee71ab90241cb982c5275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7a3cbe3eb1fee71ab90241cb982c5275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2212b4bc5002b5f8df13dab87b3cf847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2212b4bc5002b5f8df13dab87b3cf847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\135b866aed51fd55262bf6c481d3f74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\135b866aed51fd55262bf6c481d3f74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0f6c8aa6ebf847265e3763ac0bf53ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0f6c8aa6ebf847265e3763ac0bf53ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b418168f196d2102f6ee286f4fc1f9de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b418168f196d2102f6ee286f4fc1f9de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7e927766f56aef8c2eadbfb39d8cefe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a7e927766f56aef8c2eadbfb39d8cefe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f471f6b779def2633c2cd1ec5e0e6a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f471f6b779def2633c2cd1ec5e0e6a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4bd8b9114f1f60fb0de0ed61332a826d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\LucianQu\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4bd8b9114f1f60fb0de0ed61332a826d\AndroidManifest.xml:20:5-44
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+		INJECTED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml
+application
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:9:5-24:19
+	android:label
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.xinhui.file.FileActivity
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:15:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.artifex.mupdf.MuPDFActivity
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:22:9-23:57
+	android:label
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:22:19-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:26:2-77
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:26:19-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:27:5-83
+	android:name
+		ADDED from H:\WorkFile\Project\ElectronicSignature\app\src\main\AndroidManifest.xml:27:22-81

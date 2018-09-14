@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Fri Sep 14 12:29:24 CST 2018
+2.base=H\:\\WorkFile\\Project\\ElectronicSignature\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=H\:\\WorkFile\\Project\\ElectronicSignature\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=DEX
+1.path=classes.dex
+4.base=H\:\\WorkFile\\Project\\ElectronicSignature\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+count=5
+2.path=classes.dex
+4.set=DEX
+3.path=lib/armeabi/libmupdf.so
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=H\:\\WorkFile\\Project\\ElectronicSignature\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+1.base=H\:\\WorkFile\\Project\\ElectronicSignature\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+4.baseType=DIRECTORY
+0.set=DEX

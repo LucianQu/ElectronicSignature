@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/qianming"
+    >
+	<TextView 
+	    android:id="@+id/memory_log"
+	    android:layout_width="match_parent"
+	    android:layout_height="30dp"
+	    android:text="@string/memory_log"
+	    android:gravity="center"
+	    android:background="@drawable/dialog_bg_to9"
+	    />
+		
+   <!-- <TextView  
+	    android:id="@+id/xPath"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:padding="5px"
+	    android:textSize="18sp"
+	    android:gravity="right"
+	    android:layout_below="@+id/memory_log"
+	    /> -->
+	    <TextView 
+	        android:id="@+id/ram_total"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="内存总空间："
+	        android:layout_below="@+id/memory_log"/>
+	    <TextView 
+	        android:id="@+id/ram_total_tv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="内存总空间"
+	        android:layout_below="@+id/memory_log"
+	        android:layout_toRightOf="@+id/ram_total"/>
+	    <TextView 
+	        android:id="@+id/sd_total"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="SD卡总空间："
+	        android:layout_marginTop="10dp"
+	        android:layout_below="@+id/ram_total"/>
+	    <TextView 
+	        android:id="@+id/sd_total_tv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="SD卡总空间"
+	        android:layout_marginTop="10dp"
+	        android:layout_below="@+id/ram_total_tv"
+	        android:layout_toRightOf="@+id/sd_total"/>
+   <TextView 
+	    android:id="@+id/file_log"
+	    android:layout_width="match_parent"
+	    android:layout_height="30dp"
+	    android:text="@string/file_log"
+	    android:gravity="center"
+	    android:background="@drawable/dialog_bg_to9"
+	    android:layout_below="@+id/sd_total_tv"
+	    />
+	<ListView 
+	    android:id="@android:id/list"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/file_log"
+		/>
+
+	<TextView
+	    android:id="@+id/ram_available_tv"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/memory_log"
+	    android:layout_marginLeft="17dp"
+	    android:layout_toRightOf="@+id/ram_available"
+	    android:text="内剩余" />
+
+	<TextView
+	    android:id="@+id/ram_available"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_above="@+id/sd_total_tv"
+	    android:layout_marginLeft="16dp"
+	    android:layout_toRightOf="@+id/sd_total_tv"
+	    android:text="内存剩余：" />
+	<TextView
+	    android:id="@+id/sd_available_tv"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/ram_available_tv"
+	    android:layout_marginLeft="17dp"
+	    android:layout_marginTop="10dp"
+	    android:layout_toRightOf="@+id/sd_available"
+	    android:text="SD剩余" />
+
+	<TextView
+	    android:id="@+id/sd_available"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/ram_available"
+	    android:layout_marginLeft="16dp"
+	    android:layout_marginTop="10dp"
+	    android:layout_toRightOf="@+id/sd_total_tv"
+	    android:text="SD卡剩余：" />
+
+</RelativeLayout>
